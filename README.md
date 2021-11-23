@@ -25,7 +25,7 @@ nested list
   - second yr
 
 ```python code
-a=10
+a=45
 if a%2==0
 print("even no")
 else
